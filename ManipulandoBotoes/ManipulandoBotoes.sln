@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frm_LTP2_3bim_2024", "Frm_LTP2_3bim_2024\Frm_LTP2_3bim_2024.csproj", "{508CE32B-27D0-4EDB-990B-166D9B120880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valida CPF", "Valida CPF\Valida CPF.csproj", "{EDF08CBA-A4E8-4DA5-8675-2706E80D9230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508CE32B-27D0-4EDB-990B-166D9B120880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508CE32B-27D0-4EDB-990B-166D9B120880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508CE32B-27D0-4EDB-990B-166D9B120880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508CE32B-27D0-4EDB-990B-166D9B120880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF08CBA-A4E8-4DA5-8675-2706E80D9230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF08CBA-A4E8-4DA5-8675-2706E80D9230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF08CBA-A4E8-4DA5-8675-2706E80D9230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF08CBA-A4E8-4DA5-8675-2706E80D9230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E0C5454-750D-4E7C-93E8-655182153921}
+	EndGlobalSection
+EndGlobal
